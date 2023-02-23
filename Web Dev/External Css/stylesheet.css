@@ -1,0 +1,14 @@
+p
+{
+	color: brown;
+	background-color: violet;
+	font-family: sans-serif;
+	font-size: 20px;
+	padding: 50px 50px 50px 50px;
+	margin: 50px 50px 50px 50px;
+	width: 500px;
+	position: fixed;
+	top: 50px;
+	left: 400px;
+	bottom: 150px;
+}

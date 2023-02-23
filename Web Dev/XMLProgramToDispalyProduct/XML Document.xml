@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='Stylesheet2.css'?>
+
+<products>
+	<product>
+		<name>Motorcycle</name>
+		<company>Java</company>
+		<model>42</model>
+	</product>
+
+	<product>
+		<name>Cycle</name>
+		<company>Hero</company>
+		<model>Colt 26T</model>
+	</product>
+
+	<product>
+		<name>Keyborad</name>
+		<company>Lenovo</company>
+		<model>100 Wireless</model>
+	</product>
+</products>
